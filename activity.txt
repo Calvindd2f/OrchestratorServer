@@ -1,0 +1,12 @@
+activity_name
+
+
+//property_nam and property_value
+executionEnvironment
+executionEnvironment
+executionClientId
+alias
+skip
+document
+inputs
+//{input_name:input_value}

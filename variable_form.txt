@@ -1,0 +1,33 @@
+`$Ctx_Client_MSTenant_Id`
+`$MSGRAPH_Api_Token_Client`
+`$EXO_Api_Token_Client`
+`$Ctx_Client_MSTenant_Name`
+
+
+| Variable in Package Editor  |
+| --------------------------- |
+| `$AZURE_Api_Token_`         |
+| `$Base_Url`                 |
+| `$Ctx_Client_Id`            |
+| `$Ctx_CW_Ticket_Id`         |
+| `$CW_Api_Client_Id`         |
+| `$CW_Api_Token`I            |
+| `$CW_Api_Url`               |
+| `$EXO_Api_Token_Client`     |
+| `$EXO_Api_Token_`           |
+| `$Glue_Api_Token`           |
+| `$Glue_Api_Url`             |
+| `$Kaseya_Api_Token`         |
+| `$Kaseya_Api_Url`           |
+| `$MSGRAPH_Api_Token_Client` |
+| `$MSGRAPH_Api_Token_`       |
+| `$Ctx_Client_MSTenant_Id`   |
+| `$RC_Api_Url`               |
+| `$RC_Api_Token`             |
+| `$RC_Bot_Token`             |
+| `$RC_Api_Sandbox_Token`     |
+| `$RC_Api_Sandbox_Url`       |
+| `$RC_Bot_Sandbox_Token`     |
+| `$SP_Url`                   |
+| `$Xero_Api_Token`           |
+| `$Winget_Unique_Token`      |
